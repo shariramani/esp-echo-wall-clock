@@ -42,8 +42,8 @@
   ////////////////////////////////
   const int buzzer = D2; //buzzer to wemosd1 pin D2
   
-  const char* ssid = "Suresh";
-  const char* password = "mvls$1488";
+  const char* ssid = "Your_SSID";
+  const char* password = "Your_Password";
   
   IPAddress staticIP(192, 168, 1, 167);
   IPAddress gateway(192, 168, 1, 1);
